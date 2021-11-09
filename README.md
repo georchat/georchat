@@ -2,7 +2,7 @@
 
 ### My name is Georgios Chatzis
 
-Here are some things about me:
+**Here are some things about me:**
 
 - 👋 Hi, I’m @georchat on GitHub
 - 👀 I’m interested in data science, machine learning and artificial intelligence projects
