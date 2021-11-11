@@ -8,7 +8,7 @@
 - 👀 I’m interested in data science, machine learning and artificial intelligence projects
 - 🌱 I’m currently learning about natural language processing with RNN and attention
 
-
+<!-- 
 
 [<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="alt text" width="150" height="150" align="center">](https://www.linkedin.com/in/georgios-c-01523293/)
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/41258253" alt="alt text" width="150" height="150" align="center">](https://www.credential.net/43ae83e3-a02c-41ec-af11-cbdb4af47730)
@@ -16,8 +16,6 @@
 [<img src="https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=260&height=130&name=Credly_Logo_Orange_10-Inch.png" alt="alt text" width="150" height="100" align="center">](https://www.credly.com/users/georgios-chatzis/badges)
 
 
-
-<!-- 
 georchat/georchat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
