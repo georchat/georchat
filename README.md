@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @georchat on GitHub
 - 👀 I’m interested in data science, machine learning and artificial intelligence projects
-- 🌱 I’m currently learning about natural language processing with RNN and attention
+- 🌱 I’m currently learning about NLP and Graph Algorithms
 
 <!-- 
 
